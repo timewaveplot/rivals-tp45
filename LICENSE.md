@@ -1,4 +1,4 @@
-#  
+#  Raro bee swarm simulator scripts é o melhor bee swarm simulator scripts com voar e mira automática. Seguro, confiável e otimizado para máximo desempenho.
 
 
 
